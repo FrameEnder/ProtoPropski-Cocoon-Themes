@@ -8,4 +8,5 @@
 <p align="left">
   <a href="https://github.com/FrameEnder/ProtoPropski-Cocoon-Themes/raw/refs/heads/main/themes/BIRDBRAIN/BIRDBRAIN.zip">
   <img src="https://github.com/FrameEnder/ProtoPropski-Cocoon-Themes/blob/main/themes/BIRDBRAIN/preview.png" width="400">
+  <img src="https://i.ibb.co/sJVQwMLP/ezgif-5a3857f0d8e2f4f3.gif" width="400">
 </p>
