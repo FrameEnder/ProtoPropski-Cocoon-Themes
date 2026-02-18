@@ -6,6 +6,10 @@
 </h1>
 
 <p align="Center">
+  To download a Theme, simply click any theme of your choice!
+</p>
+
+<p align="Center">
   <a href="https://github.com/FrameEnder/ProtoPropski-Cocoon-Themes/raw/main/themes/Project%20Diva/ProjectDiva.zip">
   <img src="https://github.com/FrameEnder/ProtoPropski-Cocoon-Themes/blob/main/art/icons/Project%20Diva.png" width="400">
   <img src="https://github.com/FrameEnder/ProtoPropski-Cocoon-Themes/blob/main/art/previews/ProjectDiva.jpg" width="400">
